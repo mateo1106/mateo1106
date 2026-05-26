@@ -37,34 +37,11 @@ También cuento con experiencia como docente y monitor académico en áreas como
 
 ---
 
-## 📊 Área de interés
+## 📊 Áreas de interés
 
-- Estadística aplicada
-
-
----
-
-## 🚀 Proyectos destacados
-
-### 💧 Análisis de Potabilidad del Agua
-
-Proyecto de análisis estadístico y Machine Learning sobre datos de potabilidad del agua.
-
-- Análisis de 3.276 muestras con 10 variables fisicoquímicas.
-- Tratamiento de valores faltantes mediante imputación múltiple MICE.
-- Aplicación de modelos de Machine Learning para predicción de potabilidad.
-- Validación mediante pruebas de hipótesis y matrices de correlación de Pearson, Kendall y Spearman.
-
----
-
-### 🏗️ Análisis de Resistencia de Compresión del Concreto
-
-Proyecto de análisis exploratorio sobre datos de laboratorio de mezclas de concreto.
-
-- Análisis de 9 atributos relacionados con la resistencia del concreto.
-- Aplicación de pruebas de normalidad como Shapiro-Wilk y QQ-Plot.
-- Uso de correlaciones no paramétricas como Spearman y Kendall.
-- Identificación de variables con mayor incidencia en la resistencia del concreto.
+- Estadística 
+- Análisis de Datos
+- Ciencia de Datos
 
 ---
 
@@ -94,4 +71,4 @@ También he participado en espacios académicos como:
 
 ---
 
-> “Las matemáticas no solo explican el mundo: también ayudan a tomar mejores decisiones a partir de los datos.”
+> > “Entre la abstracción y el razonamiento nace una forma profunda de entender el mundo.”
